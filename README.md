@@ -2,7 +2,7 @@
 
 **Visual AI workflow builder** — design node-based pipelines with images, video, text, and LLMs. Run them locally or in the cloud with Trigger.dev. Built with Next.js, Clerk, Prisma, and Google Gemini.
 
----
+----
 
 ## Table of contents
 
